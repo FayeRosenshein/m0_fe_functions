@@ -40,6 +40,8 @@ function checkStock(amount, food) {
 }
 }
 
+// 
+
 checkStock(4, "Coffee");
 checkStock(3, "Tortillas");
 checkStock(0, "Cheese");

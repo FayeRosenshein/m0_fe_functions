@@ -26,7 +26,7 @@ function addThreeNums(first, second, third) {
 addThreeNums(1, 2, 3);
 addThreeNums(4, 2, 7);
 
-
+//
 // EX 3:
 // I changed func to function as func is not a command and then I added a space between
 //the parenheses and the curly bracket
